@@ -21,22 +21,22 @@ Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data
 Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\BeardedManStudios.dll into Unity Child Domain
 Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\ForgeNetworkingCommon.dll (this message is harmless)
 Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\ForgeNetworkingCommon.dll into Unity Child Domain
-- Completed reload, in  0.221 seconds
+- Completed reload, in  0.211 seconds
 Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.532838 ms
+UnloadTime: 44.037514 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3180 -> priority: 1 
-  Thread -> id: 3058 -> priority: 1 
-  Thread -> id: 36ec -> priority: 1 
-  Thread -> id: 948 -> priority: 1 
+  Thread -> id: 3e7c -> priority: 1 
+  Thread -> id: 33e0 -> priority: 1 
+  Thread -> id: 3260 -> priority: 1 
+  Thread -> id: 2694 -> priority: 1 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.970763 ms
+UnloadTime: 2.991011 ms
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 478.
-Total: 0.470123 ms (FindLiveObjects: 0.038320 ms CreateObjectMapping: 0.016987 ms MarkObjects: 0.370567 ms  DeleteObjects: 0.043061 ms)
+Total: 13.420241 ms (FindLiveObjects: 0.063999 ms CreateObjectMapping: 0.018172 ms MarkObjects: 13.288291 ms  DeleteObjects: 0.048987 ms)
 
