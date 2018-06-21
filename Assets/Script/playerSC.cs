@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerSC : MonoBehaviour {
 	public float _speed;
-	private bool _move = false;
+	public bool _move = false;
 	public GameObject _point;
 	private Vector3 _target;
 
