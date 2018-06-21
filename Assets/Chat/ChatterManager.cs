@@ -6,11 +6,21 @@ using UnityEngine;
 public class ChatterManager : ChatterManagerBehavior {
 	public Transform chatContent;
 	public GameObject chatMessage;
+	private string username;
+
+	protected override void NetworkStart(){
+		base.NetworkStart ();
+
+		if (networkObject.IsServer)
+			username = "Server";
+		else
+			username = "Client";
+	}
 
 	public void WriteMessage(InputField sender){
 		if (!string.IsNullOrEmpty (sender.text) && sender.text.Trim ().Length > 0) {
 			sender.text = sender.text.Replace ("\r", string.Empty).Replace ("\n", string.Empty);
-			networkObject.SendRpc (RPC_TRANSMIT_MESSAGE, Receivers.All, "Brent", sender.text.Trim ());
+			networkObject.SendRpc (RPC_TRANSMIT_MESSAGE, Receivers.All,username, sender.text.Trim ());
 			sender.text = string.Empty;
 			sender.ActivateInputField();
 		}

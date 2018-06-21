@@ -21,22 +21,65 @@ Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data
 Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\BeardedManStudios.dll into Unity Child Domain
 Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\ForgeNetworkingCommon.dll (this message is harmless)
 Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\ForgeNetworkingCommon.dll into Unity Child Domain
-- Completed reload, in  0.211 seconds
+- Completed reload, in  0.026 seconds
 Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 44.037514 ms
+UnloadTime: 1.276839 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3e7c -> priority: 1 
-  Thread -> id: 33e0 -> priority: 1 
-  Thread -> id: 3260 -> priority: 1 
-  Thread -> id: 2694 -> priority: 1 
+  Thread -> id: 3b88 -> priority: 1 
+  Thread -> id: 1ac4 -> priority: 1 
+  Thread -> id: 30bc -> priority: 1 
+  Thread -> id: 3d70 -> priority: 1 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.991011 ms
+UnloadTime: 3.356838 ms
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 478.
-Total: 13.420241 ms (FindLiveObjects: 0.063999 ms CreateObjectMapping: 0.018172 ms MarkObjects: 13.288291 ms  DeleteObjects: 0.048987 ms)
+Total: 0.422320 ms (FindLiveObjects: 0.022518 ms CreateObjectMapping: 0.016197 ms MarkObjects: 0.339752 ms  DeleteObjects: 0.043456 ms)
+
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   23.21.13.8871
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\BeardedManStudios.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\BeardedManStudios.dll into Unity Child Domain
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\ForgeNetworkingCommon.dll (this message is harmless)
+Loading C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\ForgeNetworkingCommon.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Byungcharn Lee\Desktop\animeTopia\Builds\Build1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.770270 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 32f0 -> priority: 1 
+  Thread -> id: 3c3c -> priority: 1 
+  Thread -> id: 126c -> priority: 1 
+  Thread -> id: 39b8 -> priority: 1 
+[550] REQUESTED ID RECEIVED
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.317332 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 478.
+Total: 0.434567 ms (FindLiveObjects: 0.022913 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.353975 ms  DeleteObjects: 0.040691 ms)
 
